@@ -2,7 +2,7 @@
 大家好，很高兴认识大家。  
 我叫雷毅，来自福建福州，是一个有些腼腆的人。  
 在大学，即将度过自己期待已久的大学生活，希望能和更多人结识。  
-近来在学车，作为自己的一项基本技能，方便未来的生活。
+近来在学车，希望掌握一项基本技能，方便未来的生活。
 <!--
 **Lawrence0sama/Lawrence0sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
